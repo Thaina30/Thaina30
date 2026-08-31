@@ -8,6 +8,10 @@
   🎓 Skills<br>
     <a href="" target="_blank" alt="Email">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /></a>
+    <a href="" target="_blank" alt="Email">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /></a>
+    <a href="" target="_blank" alt="Email">
+    <img src="https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white" /></a>
 </p>
 <p align="left">
   💼 Tools: <strong>Linux, Visual Studio Code.</strong>
