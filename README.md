@@ -9,8 +9,6 @@
   -  Languages:
     <a href="" target="_blank" alt="Email">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /></a>
-
-    <img src="[" />
 </p>
 <p align="left">
   💼 Tools: <strong>Linux, Visual Studio Code.</strong>
