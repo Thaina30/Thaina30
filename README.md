@@ -25,7 +25,7 @@
   <a href="mailto:thainarodri.sn@gmail.com" target="_blank" alt="Email">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:thainarodri.sn@gmail.com" /></a>
 
-  <a href="https://www.linkedin.com/in/nicolas-almeida-960b27161/" target="_blank" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/thaina-rodrigues-7525a1108" target="_blank" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaina-rodrigues-7525a1108" /></a>
 
   <a href="https://api.whatsapp.com/send?phone=5511964464518" target="_blank" alt="WhatsApp">
