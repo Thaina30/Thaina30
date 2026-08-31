@@ -6,7 +6,7 @@
 
 <p align="left">
   🎓 Skills<br>
-  -  Languages: <strong>Python.</strong><br>![Python](https://shields.io)
+  -  Languages: <strong>Python.</strong><br> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 </p>
 
 <p align="left">
