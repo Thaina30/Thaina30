@@ -6,9 +6,9 @@
 
 <p align="left">
   🎓 Skills<br>
-  -  Languages: <strong>Python.</strong><br> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  -  Languages:
 </p>
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 <p align="left">
   💼 Tools: <strong>Linux, Visual Studio Code.</strong>
 </p>
