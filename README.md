@@ -6,7 +6,6 @@
 
 <p align="left">
   🎓 Skills<br>
-  -  Languages:
     <a href="" target="_blank" alt="Email">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /></a>
 </p>
